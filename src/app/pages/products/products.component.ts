@@ -79,5 +79,3 @@ export class ProductsComponent implements OnInit {
 }
 
 //tarea realizar el editar
-
-//tarea realizar el editar
